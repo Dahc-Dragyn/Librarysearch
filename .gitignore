@@ -1,0 +1,103 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib64/
+lib/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST.in
+*.dist-info/
+
+# PyInstaller related
+build
+dist
+
+# Environments
+.env
+env/
+venv/
+ENV/
+pyvenv.cfg
+*.pth
+
+# Virtualenv
+.venv
+
+# Spyder project settings
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy cache
+.mypy_cache/
+
+# pytype cache
+.pytype_cache/
+
+# Cython debug artifacts
+*.c
+*.cpp
+*.h
+
+# Jupyter Notebook related
+.ipynb_checkpoints
+
+# VS Code related
+.vscode/
+
+# PyCharm related
+.idea/
+
+# SonarLint related
+.sonarlint/
+
+# Compiled static assets
+staticfiles/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+.webassets-cache
+.scrapy
+
+# Sphinx documentation
+docs/_build
+.txt
+.csv
+
+# Poetry related
+poetry.lock
+
+# pdm related
+pdm.lock
+__pypackages__/
+
+# Celery Beat schedule file
+celerybeat-schedule
+
+# Datasette metadata
+datasette_metadata.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
