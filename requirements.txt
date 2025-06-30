@@ -1,0 +1,12 @@
+pip
+autopep8
+Flask==3.0.3
+gunicorn==22.0.0
+Werkzeug==3.0.6
+aiohttp
+aiofiles
+beautifulsoup4
+tenacity
+tqdm
+asyncio
+brotli
